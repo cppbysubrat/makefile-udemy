@@ -17,3 +17,10 @@ It is having compilation issues.
 
 Read the error message carefully and do the changes.
 
+
+Hints:(Try it yourself first before lookinginto the hints.)
+======
+Fix:Employee header not found issue in db_mgr
+Fix:Creation of bin directory
+Fix:Creation of share_headers, objs & libs directory
+

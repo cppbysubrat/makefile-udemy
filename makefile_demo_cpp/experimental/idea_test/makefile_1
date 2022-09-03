@@ -1,0 +1,13 @@
+
+SRCS := $(wildcard *.cpp)
+
+BINS := $(SRCS:%.cpp=%)
+OBJS := $(SRCS:%.cpp=%.o)
+
+all:
+	@echo "BINS:" $(SRCS:%.cpp=%)
+	@echo "SRCS:" $(SRCS)
+	@echo "OBJS:" $(OBJS)
+
+
+

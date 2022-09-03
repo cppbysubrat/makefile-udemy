@@ -34,4 +34,4 @@
 # Exclude folders
 shared_headers/*
 experimental/*
-
+.DS_Store
