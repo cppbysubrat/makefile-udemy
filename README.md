@@ -1,3 +1,6 @@
+# Udemy Makefile
+This repository has been moved to a new account. You can find the updated repository at the following link: [New Repository](https://github.com/subratswain-cpp/udemy-makefile.git). Please clone the new repository to receive further updates.
+
 # makefile-udemy
 Source code of makefile course published in Udemy. ( https://www.udemy.com/course/gnu-make-makefile-to-build-cc-projects-linuxmac/?referralCode=0E44FA8C8D3BFE54DD4F ) 
 
